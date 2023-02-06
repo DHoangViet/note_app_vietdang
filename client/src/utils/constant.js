@@ -1,2 +1,2 @@
-export const URL_SERVER = 'http://localhost:4000';
-export const GRAPHQL_SUBSCRIPTION_ENDPOINT = 'ws://localhost:4000/graphql';
+export const URL_SERVER = 'https://note-app-vietdang-server.onrender.com';
+export const GRAPHQL_SUBSCRIPTION_ENDPOINT = 'ws://note-app-vietdang-server.onrender.com/graphql';
